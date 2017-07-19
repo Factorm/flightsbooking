@@ -37,7 +37,6 @@ public class TestNG_TestSuite {
 		SearchPage.fillDestinationTextBox(driver, "Chicago");
 		SearchPage.fillDepartureDateTextBox(driver, "12/25/2015");
 		SearchPage.fillReturnDateTextBox(driver, "12/31/2015");
-		//done
 	}
 
 	@AfterClass
