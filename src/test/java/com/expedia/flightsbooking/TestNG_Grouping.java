@@ -34,7 +34,7 @@ public class TestNG_Grouping {
 	@AfterMethod
 	public void afterMethod() {
 		System.out.println("This method runs after every method");
-		System.out.println("It's done ;)");
+		System.out.println("It's done GIT ;)");
 	}
 
 	@AfterClass
