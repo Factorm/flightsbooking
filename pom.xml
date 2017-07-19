@@ -42,7 +42,7 @@
 						<version>2.18.1</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testing.xml</suiteXmlFile>
+								<suiteXmlFile>testsuite.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
